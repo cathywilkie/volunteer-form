@@ -1,0 +1,28 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+.banner {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+fieldset {
+  border: none;
+}
+
+input, select, textarea,
+input[type="radio"] + label::before,
+input[type="checkbox"] + label::before {
+  border-color: #6e8c62;
+}
+
+.btn {
+color: #fff;
+background-color: #6e8c62;
+border: none;
+}
+
+hr {
+  border-color: #70ad55;
+}

@@ -11,16 +11,18 @@ fieldset {
   border: none;
 }
 
-input, select, textarea,
+input,
+select,
+textarea,
 input[type="radio"] + label::before,
 input[type="checkbox"] + label::before {
   border-color: #6e8c62;
 }
 
 .btn {
-color: #fff;
-background-color: #6e8c62;
-border: none;
+  color: #fff;
+  background-color: #6e8c62;
+  border: none;
 }
 
 hr {
